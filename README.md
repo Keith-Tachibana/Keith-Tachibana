@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/pDbzr7c.jpg?1)
+[Imgur](https://i.imgur.com/pDbzr7c.jpg)
 
 
 
