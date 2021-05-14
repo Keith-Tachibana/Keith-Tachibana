@@ -1,4 +1,4 @@
-## Keith Tachibana
+## Keith Tachibana: Welcome To My GitHub Profile!
 ![Imgur](https://i.imgur.com/pDbzr7c.jpg)
 
 
@@ -8,7 +8,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keith-Tachibana&langs_count=8&theme=chartreuse-dark)](https://github.com/Keith-Tachibana/github-readme-stats)
 
-[![Keith Tachibana's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Keith-Tachibana)](https://github.com/Keith-Tachibana/github-readme-stats)
+[![Keith Tachibana's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SonicMetal15)](https://github.com/Keith-Tachibana/github-readme-stats)
 
 
 - 🔭 I’m currently working on my portfolio
