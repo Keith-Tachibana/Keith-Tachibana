@@ -5,7 +5,7 @@ Hello and thanks for stopping by. Here you'll find some of the applications I ha
 
 Nowadays, I mainly code in JavaScript/TypeScript since I find web app development the most exciting and the most rewarding as well, especially if you are pair programming or are part of a larger collaborate team effort. The entire process from planning to wireframing to development to production to testing to troubleshooting is a fun, albeit at times frustrating, journey that really demands the best out of you in order to grow and eventually make it to a senior or lead developer position. 
 
-In order to stay on top of all the latest developments being released to see if any are applicable to any of my projects, it really helps to have a dependable source for that type of information. One such resource that I have grown to enjoy reading (and listening to since they also have a podcast) is (https://softwareengineeringdaily.com/)[Software Engineering Daily].
+In order to stay on top of all the latest developments being released to see if any are applicable to any of my projects, it really helps to have a dependable source for that type of information. One such resource that I have grown to enjoy reading (and listening to since they also have a podcast) is [Software Engineering Daily](https://softwareengineeringdaily.com/).
 
 [![Keith Tachibana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keith-Tachibana&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Keith-Tachibana/github-readme-stats)
 
