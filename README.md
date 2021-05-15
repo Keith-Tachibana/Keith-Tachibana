@@ -7,11 +7,11 @@ Nowadays, I mainly code in JavaScript/TypeScript since I find web app developmen
 
 In order to stay on top of all the latest developments being released to see if any are applicable to any of my projects, it really helps to have a dependable source for that type of information. One such resource that I have grown to enjoy reading (and listening to since they also have a podcast) is [Software Engineering Daily](https://softwareengineeringdaily.com/). The format of the podcast is basically listening to the host interview an actual programmer or developer for either 60 or 90 minutes, discussing the latest trends in programming, the interviewee's developer's story, his day-to-day responsibilities, the interviewee's company's philosophy on such and such, reasons for doing this or that project, mistakes that were made and lessons learned, etc. All in all, it's usually quite an interesting listen, to say the least.
 
-[![Keith Tachibana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keith-Tachibana&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Keith-Tachibana/github-readme-stats)
+[![Keith Tachibana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keith-Tachibana&count_private=true&show_icons=true&theme=chartreuse-dark)](#)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keith-Tachibana&langs_count=8&theme=chartreuse-dark)](https://github.com/Keith-Tachibana/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keith-Tachibana&langs_count=8&theme=chartreuse-dark)](#)
 
-[![Keith Tachibana's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SonicMetal15)](https://wakatime.com/dashboard)
+[![Keith Tachibana's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SonicMetal15&theme=chartreuse-dark)](https://wakatime.com/dashboard)
 
 
 - 🔭 I’m currently working on my portfolio
